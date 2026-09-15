@@ -1,0 +1,1 @@
+AgriPlanet is an intelligent, AI-driven farming assistant that integrates crop management, pest control, fertilizer planning, and marketplace connectivity into a single digital ecosystem. It helps farmers make data-backed decisions using machine learning, real-time analytics, and seasonal insights for improved productivity and sustainability.
